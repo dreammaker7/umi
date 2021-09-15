@@ -521,7 +521,7 @@ export default {
 }
 ```
 
-设置 `{ ssr: {}, exportStatic: { }` 后，输出，
+设置 `{ ssr: {}, exportStatic: {} }` 后，输出，
 
 会在编译后，生成如下产物：
 
